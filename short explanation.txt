@@ -1,0 +1,5 @@
+I have done the greenhouse mandatory assignment and worked alone
+I achieved this by making the c program send messages to the arduiono through the serial port
+The arduino can of course work alone, but to change the variables you have to do it through the c program
+I used a 4x20 lcd to display the info from the arduino, I did not use serial monitor for this, because 
+there can only be 1 unit on the serial port at once, so either the serial monitor or the c program. 
